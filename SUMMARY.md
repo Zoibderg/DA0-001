@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Testing](README.md)
+* [Identify basic concepts of data schemas and dimensions.](README.md)
