@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Identify basic concepts of data schemas and dimensions.](README.md)
+* [CompTIA Data+ Certification Exam Objectives EXAM NUMBER: DA0-001](README.md)
