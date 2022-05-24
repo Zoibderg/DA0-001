@@ -9,10 +9,6 @@
 | Length of test         | 90 minutes                                                                                                                                                                                                                       |
 | Recommended experience | <p>• 18–24 months of experience in a report/business analyst job role</p><p>• Exposure to databases and analytical tools • Basic understanding of statistics<br>• Data visualization experience<br>675 (on scale of 100–900)</p> |
 
-15% 25% 23% 23% 14%
-
-100%
-
 ### EXAM OBJECTIVES (DOMAINS)
 
 The table below lists the domains measured by this examination and the extent to which they are represented:
