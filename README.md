@@ -18,6 +18,6 @@ The table below lists the domains measured by this examination and the extent to
 | [1.0 Data Concepts and Environments](readme/1.0-data-concepts-and-environments.md) | 15%                       |
 | [2.0 Data Mining](readme/2.0-data-mining.md)                                       | 25%                       |
 | [3.0 Data Analysis](readme/3.0-data-analysis.md)                                   | 23%                       |
-| 4.0 Visualization                                                                  | 23%                       |
+| [4.0 Visualization](readme/4.0-visualization.md)                                   | 23%                       |
 | 5.0 Data Governance, Quality, and Controls                                         | 14%                       |
 | TOTAL                                                                              | 100%                      |
